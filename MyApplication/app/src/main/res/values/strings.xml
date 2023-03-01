@@ -3,4 +3,5 @@
     <string name="title">魚老闆輔助</string>
     <string name="btnZero">歸零</string>
     <string name="btnIncrease">增加</string>
+    <string name="btnDecrease">減少</string>
 </resources>
